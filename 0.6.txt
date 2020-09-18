@@ -1,6 +1,0 @@
-0.6
-
-User clicks the submit button
-
-browser ? server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/spa/new_note
-server ? browser: 201 Created content
